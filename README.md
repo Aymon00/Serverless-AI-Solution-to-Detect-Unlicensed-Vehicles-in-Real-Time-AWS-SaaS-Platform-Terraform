@@ -1,10 +1,10 @@
 # Serverless AI Solution to Detect Unlicensed Vehicles – AWS SaaS Platform (Terraform) 🚀
 # Welcome to the Car Detection Infrastructure, a fully automated AWS-powered system designed to detect unlicensed vehicles in real-time. This repository contains the Terraform-based infrastructure setup for the project.
 
-🔗 For a complete project overview, architecture diagrams, and additional details, visit the Notion workspace:
+# 🔗 For a complete project overview, architecture diagrams, and additional details, visit the Notion workspace:
 📖 Project Documentation on Notion: https://yummy-success-abe.notion.site/Serverless-AI-Solution-to-Detect-Unlicensed-Vehicles-in-Real-Time-AWS-SaaS-Platform-Terraform-185d1728bdbc8011937fc0dacc54f365?pvs=4
 
-🚀 Overview
+# 🚀 Overview
 This project provides a scalable, serverless AI solution using AWS services to process video streams, analyze vehicle images, and detect unlicensed vehicles.
 
 ✅ Real-time processing: AWS Kinesis and Lambda for fast video stream analysis.
