@@ -22,6 +22,52 @@
 
 ---
 
+## 🌟 Core Features
+- **Live Video Analysis** - Process RTSP streams from 5+ cameras simultaneously
+- **AI-Powered Detection** - 95%+ accuracy using Amazon Rekognition
+- **Instant Alerts** - SMS/Email notifications within 2 seconds of detection
+- **Serverless Dashboard** - Real-time monitoring via API Gateway
+- **Cost Optimization** - Auto-scaling based on workload
+- **Compliance Ready** - Audit trail in DynamoDB
+
+## 🛠️ Technical Components
+| Layer              | AWS Services                          |
+|---------------------|---------------------------------------|
+| **Ingestion**       | Kinesis Video Streams                 |
+| **Processing**      | Lambda, S3, Rekognition               |
+| **Storage**         | DynamoDB, S3                          |
+| **Notification**    | SNS                                   |
+| **Visualization**   | API Gateway, Custom Dashboard         |
+| **Monitoring**      | CloudWatch, Grafana                   |
+
+## 📂  Project Structure
+
+
+- ├── 📄 backend.tf
+- │── main.tf
+- │── providers.tf
+- │── variables.tf
+- │── outputs.tf
+- │── backend.tf
+- │── modules/
+- │   ├── s3.tf
+- │   ├── kinesis.tf
+- │   ├── lambda.tf
+- │   ├── sns.tf
+- │   ├── dynamodb.tf
+- │   ├── api_gateway.tf
+- │   ├── iam.tf
+- │   ├── events.tf
+- │   ├── data.tf
+- │── lambda/
+- │   ├── frame_processor.py
+- │   ├── image_analyzer.py
+- │   ├── requirements.txt
+- │   ├── deploy.sh
+- │── README.md
+- │── .gitignore
+---
+
 ## 🛠️ Technical Implementation
 ### 🏗️ AWS Architecture Stack
 ```mermaid
