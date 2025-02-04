@@ -1,0 +1,1 @@
+# Serverless-AI-Solution-to-Detect-Unlicensed-Vehicles-in-Real-Time-AWS-SaaS-Platform-Terraform
