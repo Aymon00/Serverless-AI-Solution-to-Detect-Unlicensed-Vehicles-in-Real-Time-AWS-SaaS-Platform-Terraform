@@ -22,3 +22,4 @@ DynamoDB	Stores metadata related to detected vehicles.
 API Gateway	Exposes REST APIs for external integrations.
 IAM	Manages security roles and permissions.
 EventBridge	Triggers automated workflows.
+
