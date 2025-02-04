@@ -12,7 +12,7 @@ This project provides a scalable, serverless AI solution using AWS services to p
 ✅ Event-driven architecture: Uses SNS and EventBridge for notifications and automation.
 ✅ Secure API exposure: AWS API Gateway enables external access.
 
-📌 AWS Services Used
+# 📌 AWS Services Used
 Service	Purpose
 S3	Stores processed images and metadata.
 Kinesis	Handles real-time video stream processing.
