@@ -1,10 +1,13 @@
 # 🚘 Serverless AI Solution to Detect Unlicensed Vehicles in Real-Time (AWS SaaS Platform) & Terraform
 **Real-Time AI-Powered Vehicle Compliance Monitoring on AWS**  
+
+[![System Architecture](https://img.shields.io/badge/ARCHITECTURE_DIAGRAM-View_on_Notion-9cf?style=for-the-badge&logo=notion)](https://yummy-success-abe.notion.site/Serverless-AI-Solution-to-Detect-Unlicensed-Vehicles-in-Real-Time-AWS-SaaS-Platform-Terraform-185d1728bdbc8011937fc0dacc54f365?pvs=4)
+
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-blue?logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-5.0+-orange?logo=amazonaws)](https://aws.amazon.com/)
 [![LinkedIn](https://img.shields.io/badge/Connect-Ayman_Mohamed-blue?logo=linkedin)](https://www.linkedin.com/in/ayman-mohamed1043/)
 
-[![System Architecture](https://img.shields.io/badge/ARCHITECTURE_DIAGRAM-View_on_Notion-9cf?style=for-the-badge&logo=notion)](https://yummy-success-abe.notion.site/Serverless-AI-Solution-to-Detect-Unlicensed-Vehicles-in-Real-Time-AWS-SaaS-Platform-Terraform-185d1728bdbc8011937fc0dacc54f365?pvs=4) 
+ 
 
 ---
 
