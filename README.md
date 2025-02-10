@@ -86,4 +86,12 @@ graph TD
     G --> J[API Gateway]
     J --> K[React Dashboard]
 
+```
+## 🤝 Connect with Me
+- **LinkedIn**: [Ayman Mohamed](https://www.linkedin.com/in/ayman-mohamed1043/)
+- **Notion**: [Project Documentation](https://www.notion.so/Next-Gen-AWS-E-Commerce-Infrastructure-with-Terraform-CI-CD-Scalable-Secure-Cost-Efficient-189d1728bdbc803fa47be55f0b5cf110)
+- **Terraform**: [Official Website](https://www.terraform.io/)
+- **AWS**: [Amazon Web Services](https://aws.amazon.com/)
 
+---
+Thanks
